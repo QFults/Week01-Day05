@@ -4,7 +4,7 @@
 
 - Bootstrap Grid System
 - Pseudo-Classes
-- Media Queries
 - Custom Fonts
+- Media Queries
 - More Styling Libraries
 - Mini Project
